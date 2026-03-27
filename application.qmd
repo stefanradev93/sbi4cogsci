@@ -1,0 +1,35 @@
+# Apply to the program
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. This page is structured for eligibility, timeline, and application steps.
+
+## Eligibility
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+- Lorem ipsum dolor sit amet
+- Consectetur adipiscing elit
+- Sed do eiusmod tempor
+
+## What to submit
+
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+- CV or résumé
+- Short statement of interest
+- Optional supporting materials
+
+# Process
+
+## 01 — Prepare
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+## 02 — Submit
+
+Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+
+## 03 — Hear back
+
+Duis aute irure dolor in reprehenderit in voluptate velit.
+
+*Application deadlines, fees, and forms can be inserted here once finalized.*

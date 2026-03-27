@@ -1,0 +1,19 @@
+# Schedule
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. The structure below is a placeholder layout that you can later replace with the real program.
+
+| Time | Monday | Tuesday | Wednesday | Thursday | Friday |
+|------------|------------|------------|------------|------------|------------|
+| 09:00–10:30 | Opening session | Morning workshop | Keynote lecture | Thematic seminar | Group presentations |
+| 10:45–12:15 | Lecture block | Breakout session | Studio format | Hands-on lab | Closing reflections |
+| 12:15–13:30 | Lunch break | Lunch break | Lunch break | Lunch break | Lunch break |
+| 13:30–15:00 | Tutorial | Reading group | Applied exercise | Project work | Feedback session |
+| 15:15–16:30 | Panel discussion | Open lab | Mentoring circle | Lightning talks | Farewell |
+
+## Daily rhythm
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+## Social activities
+
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.

@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Summer School"
+  navbar:
+    pinned: true
+    background: white
+    foreground: "#111827"
+    left:
+      - href: index.qmd
+        text: Overview
+      - href: schedule.qmd
+        text: Schedule
+      - href: organizers.qmd
+        text: Organizers
+      - href: application.qmd
+        text: Application
+      - href: venue.qmd
+        text: Venue
+  page-footer:
+    left: "Home"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    mainfont: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif
+
+editor: visual

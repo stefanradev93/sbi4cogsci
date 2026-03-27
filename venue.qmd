@@ -1,0 +1,38 @@
+# Location
+
+The event will be held at The Ohio State University, Columbus, OH.
+
+<div style="width: 100%; height: 350px; margin-top: 1rem;">
+  <iframe
+    width="100%"
+    height="350"
+    frameborder="0"
+    style="border:1px solid #aaa; border-radius:12px;"
+    src="https://www.google.com/maps?q=The+Ohio+State+University,+Columbus,+OH&output=embed"
+    allowfullscreen>
+  </iframe>
+  <br/>
+</div>
+
+# Accommodation
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+# Travel information
+
+## By air
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+## By train
+Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+
+## By local transit
+Duis aute irure dolor in reprehenderit in voluptate velit.
+
+## Around the venue
+
+| Category    | Placeholder recommendation |
+|-------------|----------------------------|
+| Hotel       | Lorem Ipsum Suites         |
+| Café        | Dolor Sit Coffee           |
+| Dinner      | Amet Kitchen               |
+| Walkability | 10 minutes to venue        |
