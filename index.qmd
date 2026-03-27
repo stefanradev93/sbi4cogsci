@@ -3,9 +3,10 @@ title: "Unlocking New Horizons in Cognitive Modeling with Simulation-Based Infer
 page-layout: full
 ---
 
-# At a Glance
 
-Modern simulation-based inference (SBI) represents a merger of deep learning and mechanistic modeling, transforming how researchers think about, develop, fit, validate, and compare computational models. The summer school will guide participants in supercharing their modeling workflows with the latest deep learning techniques.
+## At a Glance
+
+Modern simulation-based inference (SBI) represents a merger of deep learning and computational modeling, transforming how we think about, develop, fit, validate, and compare cognitive models. This summer school will introduce the basics of computational cognitive modeling and guide participants through the latest deep learning methods for supercharging their workflows. Participants will:
 
 - Learn the basics of computational cognitive modeling
 - Explore deep learning for cognitive science
@@ -14,25 +15,25 @@ Modern simulation-based inference (SBI) represents a merger of deep learning and
 - Discover new models using unsupervised learning
 - Develop your own research project
 
-# Summer School Themes
+## Summer School Themes
 
 ::: {.grid-3}
 ::: {.theme-card}
 [**Cognitive Modeling**](https://www.sciencedirect.com/science/article/pii/S1364661319302739){.theme-title target="_blank"}
 
-Learn how computational models are used to explain cognitive processes, from perception to decision making. Understand the principles behind model construction and validation.
+Learn how computational models are used to explain cognitive processes. Understand the principles behind model construction and validation.
 :::
 
 ::: {.theme-card}
 [**Bayesian Analysis**](https://www.tandfonline.com/doi/full/10.1080/09515089.2017.1297692){.theme-title target="_blank"}
 
-Explore Bayesian methods for parameter estimation and model comparison. See how uncertainty is quantified and incorporated into scientific inference.
+Explore Bayesian methods for parameter estimation and model comparison. Learn to quantify and embrace uncertainty.
 :::
 
 ::: {.theme-card}
 [**Simulation-Based Inference**](https://arxiv.org/abs/2101.04653){.theme-title target="_blank"}
 
-Discover how SBI leverages simulations and machine learning to fit complex models that are otherwise intractable. Apply these tools to real cognitive data.
+Discover how SBI leverages simulations and deep learning to fit complex models that are otherwise intractable. Apply SBI to model real behavioral data.
 :::
 
 ::: {.theme-card}
@@ -44,19 +45,23 @@ Integrate multiple data sources or behavioral tasks into unified models. Joint m
 ::: {.theme-card}
 [**Dynamic Modeling**](https://www.sciencedirect.com/science/article/pii/S0893608022000732){.theme-title target="_blank"}
 
-Model cognitive processes that unfold over time, such as learning and adaptation. Dynamic models capture the temporal structure of behavior and cognition.
+Model cognitive processes that unfold over time. Dynamic models capture the complex temporal structure of behavior and cognition.
 :::
 
 ::: {.theme-card}
-[**Agentic Workflows**](https://www.nature.com/articles/s41597-022-01387-2){.theme-title target="_blank"}
+[**Model Discovery**](https://www.nature.com/articles/s41597-022-01387-2){.theme-title target="_blank"}
 
-Leverage agent-based approaches and workflow automation to scale up cognitive modeling projects. Learn how to use modern tools for reproducible research.
+Leverage unsupervised learning to extract new models directly from data. Compare general neural models to task-performing models.
 :::
 :::
 
-# Technical Stack
+## Technical Stack
 
 The summer school is largely self-contained. We will use a mixture of programming languages and libraries:
 
 - Python (BayesFlow, HSSM)
 - MATLAB
+
+## Sponsors
+
+This summer school is generously sponsored by the [William K. and Katherine W. Estes Fund](https://www.psychonomic.org/page/estesfund) overseen by the Psychonomic Society and the Association for Psychological Science. The organizers acknowledge support from the National Science Foundation.

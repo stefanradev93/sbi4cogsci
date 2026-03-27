@@ -3,7 +3,7 @@ project:
   output-dir: _site
 
 website:
-  title: "Summer School"
+  title: "SBI-4-CogSci"
   navbar:
     pinned: true
     background: white
