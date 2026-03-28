@@ -5,7 +5,7 @@ title: "Organizers"
 ::: {.organizer-grid}
 
 ::: {.organizer-card}
-[![](images/peter-kvam.jpg){.organizer-photo}](https://peterkvam.com)
+[![](images/organizers/peter-kvam.jpg){.organizer-photo}](https://peterkvam.com)
 
 ### [Peter Kvam](https://peterkvam.com)
 
@@ -13,7 +13,7 @@ title: "Organizers"
 :::
 
 ::: {.organizer-card}
-[![](images/brandon-turner.jpg){.organizer-photo}](https://turner-mbcn.com)
+[![](images/organizers/brandon-turner.jpg){.organizer-photo}](https://turner-mbcn.com)
 
 ### [Brandon Turner](https://turner-mbcn.com)
 
@@ -21,7 +21,7 @@ title: "Organizers"
 :::
 
 ::: {.organizer-card}
-[![](images/stefan-radev.jpg){.organizer-photo}](https://bayesops.com)
+[![](images/organizers/stefan-radev.jpg){.organizer-photo}](https://bayesops.com)
 
 ### [Stefan T. Radev](https://bayesops.com)
 
@@ -29,7 +29,7 @@ title: "Organizers"
 :::
 
 ::: {.organizer-card}
-[![](images/anne-collins.jpg){.organizer-photo}](https://ccn.studentorg.berkeley.edu)
+[![](images/organizers/anne-collins.jpg){.organizer-photo}](https://ccn.studentorg.berkeley.edu)
 
 ### [Anne Collins](https://ccn.studentorg.berkeley.edu)
 
@@ -37,7 +37,7 @@ title: "Organizers"
 :::
 
 ::: {.organizer-card}
-[![](images/michael-nunez.jpg){.organizer-photo}](https://www.michaeldnunez.com)
+[![](images/organizers/michael-nunez.jpg){.organizer-photo}](https://www.michaeldnunez.com)
 
 ### [Michael Nunez](https://www.michaeldnunez.com)
 
@@ -45,7 +45,7 @@ title: "Organizers"
 :::
 
 ::: {.organizer-card}
-[![](images/konstantina-sokratous.jpg){.organizer-photo}](https://www.lazyneuron.com)
+[![](images/organizers/konstantina-sokratous.jpg){.organizer-photo}](https://www.lazyneuron.com)
 
 ### [Konstantina Sokratous](https://www.lazyneuron.com)
 
@@ -53,7 +53,7 @@ title: "Organizers"
 :::
 
 ::: {.organizer-card}
-[![](images/alexander-fengler.jpg){.organizer-photo}](https://alexanderfengler.github.io)
+[![](images/organizers/alexander-fengler.jpg){.organizer-photo}](https://alexanderfengler.github.io)
 
 ### [Alexander Fengler](https://alexanderfengler.github.io)
 
