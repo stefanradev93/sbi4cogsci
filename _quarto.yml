@@ -20,9 +20,15 @@ website:
       - href: venue.qmd
         text: Venue
   page-footer:
-    left: "Home"
-    right: "Built with Quarto"
-
+    left: |
+      <div class="footer-brand">
+        <div class="footer-title">SBI4CogSci Summer School 2026</div>
+        <div class="footer-meta">July 27-31, 2026</div>
+      </div>
+    right: |
+      <div class="footer-funder">
+        Supported by the <br><strong>William K. and Katherine W. Estes Fund</strong>
+      </div>
 format:
   html:
     theme: cosmo

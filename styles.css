@@ -26,6 +26,7 @@ body {
 .navbar-brand,
 .nav-link {
   font-weight: 400;
+  font-size: 1.3rem;
 }
 
 #quarto-content {
@@ -397,5 +398,79 @@ h3 {
 @media (max-width: 700px) {
   .organizer-grid {
     grid-template-columns: 1fr;
+  }
+}
+
+.footer {
+  margin-top: 5rem;
+  border-top: 1px solid rgba(229, 231, 235, 0.9);
+  background: linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
+}
+
+.footer .nav-footer {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 2.2rem 1.5rem;
+  display: grid;
+  grid-template-columns: 1.2fr 1fr 1fr;
+  gap: 1.5rem;
+  align-items: start;
+}
+
+.footer .nav-footer-left,
+.footer .nav-footer-center,
+.footer .nav-footer-right {
+  font-size: 0.97rem;
+  line-height: 1.55;
+  color: #4b5563;
+}
+
+.footer-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #111827;
+  letter-spacing: -0.02em;
+  margin-bottom: 0.2rem;
+}
+
+.footer-meta {
+  color: #6b7280;
+  font-size: 0.95rem;
+}
+
+.footer-funder {
+  color: #374151;
+  font-size: 0.96rem;
+}
+
+.footer-funder strong {
+  color: #111827;
+  font-weight: 600;
+}
+
+.footer-credit {
+  color: #6b7280;
+  font-size: 0.94rem;
+  text-align: right;
+}
+
+.footer a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 900px) {
+  .footer .nav-footer {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    padding: 1.5rem 1.25rem 1.75rem 1.25rem;
+  }
+
+  .footer-credit {
+    text-align: left;
   }
 }
