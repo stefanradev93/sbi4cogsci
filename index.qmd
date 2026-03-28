@@ -18,36 +18,49 @@ Modern simulation-based inference (SBI) represents a merger of deep learning and
 
 ::::::::: grid-3
 ::: theme-card
+
+![](images/graphics/cogmod.png){width=80}
+
 [**Cognitive Modeling**](https://psycnet.apa.org/fulltext/2026-03980-001){.theme-title target="_blank"}
 
 Learn how computational models are used to explain cognitive processes. Understand the principles behind model construction and validation.
 :::
 
 ::: theme-card
+![](images/graphics/bayes.png){width=80}
+
 [**Bayesian Analysis**](https://arxiv.org/abs/1904.12765){.theme-title target="_blank"}
 
 Explore Bayesian methods for parameter estimation and model comparison. Learn to quantify and embrace uncertainty.
 :::
 
 ::: theme-card
+![](images/graphics/sbi.png){width=80}
+
 [**Simulation-Based Inference**](https://www.pnas.org/doi/10.1073/pnas.1912789117){.theme-title target="_blank"}
 
 Discover how SBI leverages simulations and deep learning to fit complex models that are otherwise intractable. Apply SBI to model real behavioral data.
 :::
 
 ::: theme-card
+![](images/graphics/joint.png){width=80}
+
 [**Joint Modeling**](https://www.sciencedirect.com/science/article/abs/pii/S0022249617301335){.theme-title target="_blank"}
 
 Integrate multiple data sources or behavioral tasks into unified models. Joint modeling enables richer inferences and more robust predictions.
 :::
 
 ::: theme-card
+![](images/graphics/dynamic.png){width=80}
+
 [**Dynamic Modeling**](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(25)00149-4){.theme-title target="_blank"}
 
 Model cognitive processes that unfold over time. Dynamic models capture the complex temporal structure of behavior and cognition.
 :::
 
 ::: theme-card
+![](images/graphics/discovery.png){width=80}
+
 [**Model Discovery**](https://www.pnas.org/doi/10.1073/pnas.2401238121){.theme-title target="_blank"}
 
 Leverage unsupervised learning to extract new models directly from data. Compare general neural models to task-performing models.

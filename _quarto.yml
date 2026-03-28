@@ -3,7 +3,7 @@ project:
   output-dir: _site
 
 website:
-  title: "SBI-4-CogSci"
+  title: "<img src='images/graphics/sbi4cogsci-logo.png' height=60 />"
   navbar:
     pinned: true
     background: white
