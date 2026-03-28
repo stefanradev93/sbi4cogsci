@@ -1,32 +1,67 @@
+---
+title: "Organizers"
+---
 
-# Meet the team
+::: {.organizer-grid}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Replace these placeholders with organizer biographies, roles, and affiliations.
+::: {.organizer-card}
+[![](images/peter-kvam.jpg){.organizer-photo}](https://peterkvam.com)
 
-### Organizer One
+### [Peter Kvam](https://peterkvam.com)
 
-**Program Chair**
+<div class="organizer-affiliation">The Ohio State University</div>
+:::
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+::: {.organizer-card}
+[![](images/brandon-turner.jpg){.organizer-photo}](https://turner-mbcn.com)
 
-### Organizer Two
+### [Brandon Turner](https://turner-mbcn.com)
 
-**Co-Organizer**
+<div class="organizer-affiliation">The Ohio State University</div>
+:::
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+::: {.organizer-card}
+[![](images/stefan-radev.jpg){.organizer-photo}](https://bayesops.com)
 
-### Organizer Three
+### [Stefan T. Radev](https://bayesops.com)
 
-**Local Host**
+<div class="organizer-affiliation">Rensselaer Polytechnic Institute</div>
+:::
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+::: {.organizer-card}
+[![](images/anne-collins.jpg){.organizer-photo}](https://ccn.studentorg.berkeley.edu)
 
-## Supporting team
+### [Anne Collins](https://ccn.studentorg.berkeley.edu)
 
-### Operations
+<div class="organizer-affiliation">University of California, Berkeley</div>
+:::
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+::: {.organizer-card}
+[![](images/michael-nunez.jpg){.organizer-photo}](https://www.michaeldnunez.com)
 
-### Communication
+### [Michael Nunez](https://www.michaeldnunez.com)
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+<div class="organizer-affiliation">University of Amsterdam</div>
+:::
+
+::: {.organizer-card}
+[![](images/konstantina-sokratous.jpg){.organizer-photo}](https://www.lazyneuron.com)
+
+### [Konstantina Sokratous](https://www.lazyneuron.com)
+
+<div class="organizer-affiliation">University of Missouri</div>
+:::
+
+::: {.organizer-card}
+[![](images/alexander-fengler.jpg){.organizer-photo}](https://alexanderfengler.github.io)
+
+### [Alexander Fengler](https://alexanderfengler.github.io)
+
+<div class="organizer-affiliation">Brown University</div>
+:::
+
+:::
+
+# FAQ
+
+TODO
