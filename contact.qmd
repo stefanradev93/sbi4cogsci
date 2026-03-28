@@ -1,3 +1,11 @@
+# Contact Information
+
+For general inquiries about the summer school, please contact us at:
+
+- **Email:** TODO
+
+For specific questions, you may also reach out to any member of the [organizing committee](organizers.qmd).
+
 # Location
 
 The event will be held at The Ohio State University, Columbus, OH.
@@ -16,17 +24,14 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 # Travel information
 
+
 ## By air
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Columbus is served by John Glenn Columbus International Airport (CMH), located about 6 miles (10 km) from The Ohio State University campus. The airport offers direct flights to many major U.S. cities. Taxis, rideshares, and rental cars are available at the airport.
 
-## By train
+## By car
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco.
-
-## By local transit
-
-Duis aute irure dolor in reprehenderit in voluptate velit.
+Columbus is easily accessible by car via Interstates 70 and 71. The Ohio State University campus is located near the intersection of these major highways. Parking information for the event is to be determined (TBD) and will be provided closer to the workshop dates.
 
 ## Around the venue
 

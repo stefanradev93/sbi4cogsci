@@ -17,8 +17,8 @@ website:
         text: Organizers
       - href: application.qmd
         text: Application
-      - href: venue.qmd
-        text: Venue
+      - href: contact.qmd
+        text: Contact
   page-footer:
     left: |
       <div class="footer-brand">
