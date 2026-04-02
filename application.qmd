@@ -1,35 +1,21 @@
 # Apply to the program
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. This page is structured for eligibility, timeline, and application steps.
+To apply for the workshop and/or a scholarship award, you should upload a current CV, an approximate cost of attendance, and a short statement (~400 words) specifying your professional goals, needs, and how you expect to benefit from attending the summer school. These should be uploaded with your information using the application form:
+[Application link](https://docs.google.com/forms/d/e/1FAIpQLSeydSkxl6Bc-Zb5hEM89BOpxknjYcZ6T5AKkVLdG4UjeBu89A/viewform?usp=dialog)
+Applications will be accepted until April 30th, 2026 (AoE). Please note in your statement if you need any special accommodations such as a visa letter.
 
 ## Eligibility
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The summer school is aimed at graduate and early-career (including postdoc, assistant professor, and comparable level) researchers with some quantitative or statistics training. Other applicants will be accepted; however, funding and attendance determinations will be made based on potential benefit to attendees -- which considers formal preparation for the summer school.
 
-- Lorem ipsum dolor sit amet
-- Consectetur adipiscing elit
-- Sed do eiusmod tempor
+## Funding
 
-## What to submit
+Thanks to the support of the William K. and Katherine W. Estes Fund, we are able to offer a limited number of scholarships to cover attendance at the summer school, ranging from $1200-1800 depending on need (e.g., travel cost). These scholarships are competitive and will be awarded based on potential benefit to attendees. Summer school registration is free, but you must apply as there are a limited number of spots!
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+## Online attendance
 
-- CV or résumé
-- Short statement of interest
-- Optional supporting materials
+There are a limited number of in-person spots for the summer school, but for those who are interested in attending but unable to make it (either because the workshop is full or due to travel limitations) there will be an online option for attendance. Please still apply through the application portal (above), but be sure to indicate if you prefer the virtual attendance option. Note that virtual participants will not be able to engage in poster sessions, breakout sessions, or other in-person activities, but will have acess to all talks, workshops, and other workshop materials.
 
-# Process
+## Notifications
 
-## 01 — Prepare
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-## 02 — Submit
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco.
-
-## 03 — Hear back
-
-Duis aute irure dolor in reprehenderit in voluptate velit.
-
-*Application deadlines, fees, and forms can be inserted here once finalized.*
+Notifications of attendance and funding should be made in mide to late May 2026.
