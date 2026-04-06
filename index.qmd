@@ -3,6 +3,10 @@ title: "Unlocking New Horizons in Cognitive Modeling with Simulation-Based Infer
 page-layout: full
 ---
 
+:::: {.callout-important appearance="simple"}
+**Application deadline: April 30, 2026 (AoE)** — Workshop: July 27–31, 2026 — [Apply now](application.qmd)
+::::
+
 ## At a Glance
 
 Modern simulation-based inference (SBI) represents a merger of deep learning and computational modeling, transforming how we think about, develop, fit, validate, and compare cognitive models. This summer school will introduce the basics of computational cognitive modeling and guide participants through the latest deep learning methods for supercharging their workflows. Participants will:
@@ -66,14 +70,6 @@ Model cognitive processes that unfold over time. Dynamic models capture the comp
 Leverage unsupervised learning to extract new models directly from data. Compare general neural models to task-performing models.
 :::
 :::::::::
-
-## Technical Stack
-
-The summer school is largely self-contained. We will use a mixture of programming languages and libraries:
-
-- Python (BayesFlow, HSSM)
-- MATLAB
-- TODO
 
 ## Sponsors
 

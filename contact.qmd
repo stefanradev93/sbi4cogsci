@@ -32,12 +32,3 @@ Columbus is served by John Glenn Columbus International Airport (CMH), located a
 ## By car
 
 Columbus is easily accessible by car via Interstates 70 and 71. The Ohio State University campus is located near the intersection of these major highways. Parking information for the event is to be determined (TBD) and will be provided closer to the workshop dates.
-
-## Around the venue
-
-| Category    | Placeholder recommendation |
-|-------------|----------------------------|
-| Hotel       | Lorem Ipsum Suites         |
-| Café        | Dolor Sit Coffee           |
-| Dinner      | Amet Kitchen               |
-| Walkability | 10 minutes to venue        |
