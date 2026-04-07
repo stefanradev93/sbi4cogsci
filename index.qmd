@@ -7,6 +7,8 @@ page-layout: full
 **Application deadline: April 30, 2026 (AoE)** — Workshop: July 27–31, 2026 — [Apply now](application.qmd)
 ::::
 
+![](images/graphics/breadcrumb.png){.breadcrumb-banner}
+
 ## At a Glance
 
 Modern simulation-based inference (SBI) represents a merger of deep learning and computational modeling, transforming how we think about, develop, fit, validate, and compare cognitive models. This summer school will introduce the basics of computational cognitive modeling and guide participants through the latest deep learning methods for supercharging their workflows. Participants will:
