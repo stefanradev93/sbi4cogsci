@@ -1,3 +1,7 @@
+---
+pagetitle: "Schedule"
+---
+
 # Important Dates
 
 - **Application deadline:** April 30, 2026 (AoE)

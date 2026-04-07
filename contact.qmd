@@ -1,6 +1,8 @@
 ---
-title: "Contact Information"
+pagetitle: "Contact"
 ---
+
+# Contact Information
 
 For general inquiries about the summer school, please use the email below:
 

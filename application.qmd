@@ -1,3 +1,7 @@
+---
+pagetitle: "Application"
+---
+
 # Apply to the program
 
 To apply for the workshop and/or a scholarship award, you should upload a current CV, an approximate cost of attendance, and a short statement (~400 words) specifying your professional goals, needs, and how you expect to benefit from attending the summer school. These should be uploaded with your information using the application form.

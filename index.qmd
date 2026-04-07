@@ -1,5 +1,6 @@
 ---
 title: "Unlocking New Horizons in Cognitive Modeling with Simulation-Based Inference"
+pagetitle: "Overview"
 page-layout: full
 ---
 
