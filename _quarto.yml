@@ -3,8 +3,12 @@ project:
   output-dir: _site
 
 website:
-  title: "<img src='images/graphics/sbi4cogsci-logo.png' height=60 />"
+  title: "SBI-4-CogSci"
+  favicon: images/graphics/sbi4cogsci-icon.png
   navbar:
+    logo: images/graphics/sbi4cogsci-logo.png
+    logo-alt: "Logo"
+    title: false
     pinned: true
     background: white
     foreground: "#111827"
@@ -31,6 +35,7 @@ website:
       <div class="footer-funder">
         Supported by the <br><strong>William K. and Katherine W. Estes Fund</strong>
       </div>
+
 format:
   html:
     theme: cosmo

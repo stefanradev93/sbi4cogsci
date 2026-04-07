@@ -4,10 +4,8 @@ page-layout: full
 ---
 
 :::: {.callout-important appearance="simple"}
-**Application deadline: April 30, 2026 (AoE)** — Workshop: July 27–31, 2026 — [Apply now](application.qmd)
+**Application deadline: April 30, 2026 (AoE)** — Summer School: July 27–31, 2026 — [Apply now](application.qmd)
 ::::
-
-![](images/graphics/breadcrumb.png){.breadcrumb-banner}
 
 ## At a Glance
 
@@ -37,7 +35,7 @@ Learn how computational models are used to explain cognitive processes. Understa
 
 [**Bayesian Analysis**](https://arxiv.org/abs/1904.12765){.theme-title target="_blank"}
 
-Explore Bayesian methods for parameter estimation and model comparison. Learn to quantify and embrace uncertainty.
+Explore Bayesian methods for parameter estimation and model comparison. Learn how to quantify, interpret, and embrace uncertainty.
 :::
 
 ::: theme-card

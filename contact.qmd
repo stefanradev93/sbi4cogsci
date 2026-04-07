@@ -1,10 +1,12 @@
-# Contact Information
+---
+title: "Contact Information"
+---
 
-For general inquiries about the summer school, please contact us at:
+For general inquiries about the summer school, please use the email below:
 
-- **Email:** TODO
+[Get in Touch](mailto:kvam.4@osu.edu){.contact-button style="display:flex; width:fit-content; margin:1.5rem auto 0 auto;"}
 
-For specific questions, you may also reach out to any member of the [organizing committee](organizers.qmd).
+For specific questions or to speak with a particular organizer, you may also contact any member of the [organizing committee](organizers.qmd).
 
 # Location
 

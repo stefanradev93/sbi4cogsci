@@ -12,10 +12,24 @@
 }
 
 body {
-  background: linear-gradient(180deg, #fbfcff 0%, #f6f8fc 100%);
+  position: relative;
+  min-height: 100vh;
   color: var(--text);
   font-feature-settings: "liga" 1, "kern" 1;
+  background: transparent;
 }
+
+/* background image */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background: url("images/graphics/banner.png") center top / cover no-repeat;
+  opacity: 0.06;
+  z-index: -2;
+  pointer-events: none;
+}
+ 
 
 .navbar {
   border-bottom: 1px solid rgba(229, 231, 235, 0.8);
@@ -27,6 +41,12 @@ body {
 .nav-link {
   font-weight: 400;
   font-size: 1.3rem;
+}
+
+.navbar-brand img {
+  max-height: 56px;
+  height: 56px;
+  width: auto;
 }
 
 #quarto-content {
@@ -493,4 +513,82 @@ h3 {
   .footer-credit {
     text-align: left;
   }
+}
+
+.contact-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.95rem 1.25rem;
+  border-radius: 14px;
+  text-decoration: none;
+  font-weight: 600;
+  color: #ffffff;
+  background: linear-gradient(135deg, #6b63f6, #8b5cf6);
+  box-shadow: 0 10px 24px rgba(107, 99, 246, 0.18);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  transition:
+    transform 0.15s ease,
+    box-shadow 0.15s ease,
+    filter 0.15s ease;
+}
+
+.contact-button::before {
+  content: "✉";
+  font-size: 1rem;
+  line-height: 1;
+  opacity: 0.6;
+}
+
+.contact-button:hover {
+  transform: translateY(-1px);
+  color: #ffffff;
+  text-decoration: none;
+  box-shadow: 0 14px 32px rgba(79, 70, 229, 0.28);
+  filter: brightness(1.03);
+}
+
+.contact-button:focus,
+.contact-button:focus-visible {
+  outline: 2px solid rgba(124, 58, 237, 0.35);
+  outline-offset: 3px;
+}
+
+.apply-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.95rem 1.25rem;
+  border-radius: 14px;
+  text-decoration: none;
+  font-weight: 600;
+  color: #ffffff;
+  background: linear-gradient(135deg, #6b63f6, #8b5cf6);
+  box-shadow: 0 10px 24px rgba(107, 99, 246, 0.18);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  transition:
+    transform 0.15s ease,
+    box-shadow 0.15s ease,
+    filter 0.15s ease;
+}
+
+.apply-button::before {
+  content: "📝";
+  font-size: 1rem;
+  line-height: 1;
+  opacity: 0.6;
+}
+
+.apply-button:hover {
+  transform: translateY(-1px);
+  color: #ffffff;
+  text-decoration: none;
+  box-shadow: 0 14px 32px rgba(79, 70, 229, 0.28);
+  filter: brightness(1.03);
+}
+
+.apply-button:focus,
+.apply-button:focus-visible {
+  outline: 2px solid rgba(124, 58, 237, 0.35);
+  outline-offset: 3px;
 }
