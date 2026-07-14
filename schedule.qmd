@@ -9,13 +9,17 @@ title: "Schedule"
 
 # Schedule at a Glance
 
+::: {.schedule-wrap}
+
 | Time | Monday | Tuesday | Wednesday | Thursday | Friday |
 | --- | --- | --- | --- | --- | --- |
-| 09:00–10:45 | Opening + participant lightning talks | Bayesian inference foundations | SBI software talks & demos | Joint modeling talks | Group project preparation |
-| 11:00–13:00 | Intro talks by organizers | Breakout meetings + PyMC tutorial | Hierarchical MCMC + recurrent networks | Advanced methods talks | Group reports + discussion |
+| 09:00–10:45 | Opening + participant lightning talks | Bayesian inference + traditional and amortized Bayesian computation | SBI tools: MATLAB, HSSM + BayesFlow | Joint modeling with behavioral, EEG + fMRI data | Group project preparation |
+| 11:00–13:00 | Cognitive modeling + Bayesian inference | Breakout meetings + PyMC tutorial | Hierarchical MCMC + recurrent networks | Moderational learning + hierarchical modeling with diffusion models | Group reports + feedback and discussion |
 | 13:00–14:00 | Lunch | Lunch | Lunch | Lunch | Lunch |
-| 14:00–16:00 | Intro talks + breakout group formation | Hands-on methods workshop | Variational autoencoders + poster session | Joint modeling workshop + breakouts | Future directions + roundtable |
-| 16:00– | — | Q&A | Poster session (to 17:00) | Panel discussion | Closing / farewell |
+| 14:00–16:00 | Machine learning, SBI + latent variable modeling | Hands-on simulation, parameter estimation, MCMC + neural methods | Variational autoencoders + poster session | Joint modeling workshop + breakout meetings | Research opportunities, future directions + roundtable |
+| 16:00– | Breakout group formation | Application breakouts + Q&A | Poster session (to 17:00) | Panel discussion | Closing / farewell |
+
+:::
 
 # Day-by-Day Program
 
