@@ -1,23 +1,119 @@
 ---
-pagetitle: "Schedule"
+title: "Schedule"
 ---
 
 # Important Dates
 
-- **Application deadline:** April 30, 2026 (AoE)
-- **Notification of acceptance:** Mid-to-late May 2026
 - **Workshop dates:** July 27–31, 2026
+- **Poster session:** Wednesday, July 29, 3:00–5:00 pm (boards, tacks, and easels provided; set up just before the session)
 
-# Schedule
-
-::: {.schedule-wrap}
+# Schedule at a Glance
 
 | Time | Monday | Tuesday | Wednesday | Thursday | Friday |
-|---|---|---|---|---|---|
-| 09:00–10:30 | Opening + participant lightning talks | Bayesian inference foundations | SBI tools and demos | Complex and joint modeling | Group reports |
-| 10:45–12:15 | Intro talks by organizers | Bayesian/SBI methods talks | Software talks | Advanced methods talks | Project presentations + discussion |
-| 12:15–13:30 | Lunch | Lunch | Lunch | Lunch | Closing lunch |
-| 13:30–15:00 | Breakout group formation | PyMC tutorial + hands-on workshop | Dynamics modeling workshop | Joint modeling workshop | Future directions + opportunities |
-| 15:15–16:30 | Welcome reception | Breakout meetings + Q&A | Poster session | Panel discussion + social event | Farewell |
+| --- | --- | --- | --- | --- | --- |
+| 09:00–10:45 | Opening + participant lightning talks | Bayesian inference foundations | SBI software talks & demos | Joint modeling talks | Group project preparation |
+| 11:00–13:00 | Intro talks by organizers | Breakout meetings + PyMC tutorial | Hierarchical MCMC + recurrent networks | Advanced methods talks | Group reports + discussion |
+| 13:00–14:00 | Lunch | Lunch | Lunch | Lunch | Lunch |
+| 14:00–16:00 | Intro talks + breakout group formation | Hands-on methods workshop | Variational autoencoders + poster session | Joint modeling workshop + breakouts | Future directions + roundtable |
+| 16:00– | — | Q&A | Poster session (to 17:00) | Panel discussion | Closing / farewell |
 
+# Day-by-Day Program
+
+## Day 1 — Monday, July 27: Introduction to computational cognitive modeling
+
+- 09:00 Opening remarks by organizers
+- 09:15 Lightning talk introductions by participants (1–2 min each)
+- 10:45 Morning coffee / tea
+- 11:00 **Cognitive modeling** (Pan) — Reading: Wilson & Collins (2019)
+- 12:00 **Bayesian inference** (Turner) — Reading: Rouder & Province (2019)
+- 13:00 Lunch
+- 14:00 **Machine learning** (Kvam) — Reading: Kvam et al. (2024)
+- 14:30 **Simulation-based inference** (Radev) — Reading: Cranmer et al. (2020)
+- 15:30 **Latent variable modeling** (Sokratous) — Reading: Khemakhem et al. (2020)
+- 16:00 Formation of breakout groups (~5 participants per group, matched with an organizer by topic)
+
+::: {.callout-note collapse="true"}
+## Key readings for Day 1
+- Wilson, R. C., & Collins, A. G. (2019). Ten simple rules for the computational modeling of behavioral data. *eLife, 8*, e49547.
+- Rouder, J. N., & Province, J. M. (2019). Bayesian hierarchical models in psychological science: A tutorial. *New Methods in Cognitive Psychology*, 32–66.
+- Kvam, P. D., Sokratous, K., Fitch, A., & Hintze, A. (2024). Using artificial intelligence to fit, compare, evaluate, and discover computational models of decision behavior. *Decision, 11*(4), 599–618.
+- Cranmer, K., Brehmer, J., & Louppe, G. (2020). The frontier of simulation-based inference. *PNAS, 117*(48), 30055–30062.
+- Khemakhem, I., Kingma, D., Monti, R., & Hyvarinen, A. (2020). Variational autoencoders and nonlinear ICA: A unifying framework. *AISTATS*, 2207–2217.
 :::
+
+## Day 2 — Tuesday, July 28: Bayesian inference and simulation-based methods
+
+- 09:00 **Bayes' rule, parameter estimation, model comparison** (Turner) — Reading: Turner & Van Zandt (2012)
+- 10:00 **Traditional and amortized Bayesian computation** (Radev) — Reading: Bürkner et al. (2023)
+- 10:45 Morning coffee / tea
+- 11:00 Breakout group meetings
+- 12:00 **A tutorial on PyMC** (Fengler) — Reading: Abril-Pla et al. (2023)
+- 13:00 Lunch
+- 14:00 Hands-on: **simulating data from a cognitive model** (Fengler)
+- 14:30 Hands-on: toy models for parameter estimation
+- 15:00 — MCMC methods (Fengler) — Reading: van Ravenzwaaij et al. (2018)
+- 15:30 — Neural network methods (Sokratous) — Reading: Sokratous et al. (2023)
+- 16:00 Short breakout meetings: identifying applications · Q&A
+
+::: {.callout-note collapse="true"}
+## Key readings for Day 2
+- Turner, B. M., & Van Zandt, T. (2012). A tutorial on approximate Bayesian computation. *Journal of Mathematical Psychology, 56*, 69–85.
+- Bürkner, P. C., Scholz, M., & Radev, S. T. (2023). Some models are useful, but how do we know which ones? Towards a unified Bayesian model taxonomy. *Statistics Surveys, 17*, 216–310.
+- van Ravenzwaaij, D., Cassey, P., & Brown, S. D. (2018). A simple introduction to Markov Chain Monte-Carlo sampling. *Psychonomic Bulletin & Review, 25*, 143–154.
+- Abril-Pla, O., et al. (2023). PyMC: a modern, and comprehensive probabilistic programming framework in Python. *PeerJ Computer Science, 9*, e1516.
+:::
+
+## Day 3 — Wednesday, July 29: Tools for SBI
+
+- 09:00 **MATLAB Deep Learning Toolbox** (Kvam) — Reading: Kvam et al. (2025)
+- 09:30 **HSSM** (Fengler) — Reading: Xu et al. (2025)
+- 10:00 **BayesFlow** (Radev) — Reading: Radev et al. (2020)
+- 10:45 Morning coffee / tea
+- 11:00 **MCMC sampling for hierarchical Bayesian models** (Turner, Fengler) — Reading: Fengler et al. (2021)
+- 12:00 **Recurrent networks for dynamic data** (Pan) — Reading: Pan et al. (2025)
+- 13:00 Lunch
+- 14:00 **Variational autoencoders** (Sokratous) — Reading: Doersch (2016)
+- 15:00 **Participant poster session** (to 17:00)
+
+::: {.callout-note collapse="true"}
+## Key readings for Day 3
+- Fengler, A., Govindarajan, L. N., Chen, T., & Frank, M. J. (2021). Likelihood approximation networks (LANs) for fast inference of simulation models in cognitive neuroscience. *eLife, 10*, e65074.
+- Xu, P., Omar, A., Paniagua, C., Fengler, A., Frank, M. J., & Bera, K. (2025). lnccbrown/HSSM: 0.2.11. Zenodo.
+- Pan, T. F., Li, J. J., Thompson, B., & Collins, A. G. E. (2025). Latent variable sequence identification for cognitive models with neural network estimators. *Behavior Research Methods, 57*(10), 272.
+- Radev, S. T., Mertens, U. K., Voss, A., Ardizzone, L., & Köthe, U. (2020). BayesFlow: Learning complex stochastic models with invertible neural networks. *IEEE TNNLS, 33*(4), 1452–1466.
+- Kvam, P. D., Sokratous, K., Fitch, A. K., & Vassileva, J. (2025). Comparing likelihood-based and likelihood-free approaches to fitting and comparing models of intertemporal choice. *Behavior Research Methods, 57*(9), 1–29.
+- Doersch, C. (2016). Tutorial on variational autoencoders. *arXiv:1606.05908*.
+:::
+
+## Day 4 — Thursday, July 30: Complex models and joint modeling
+
+- 09:00 **Introduction to joint modeling** (Turner & Nunez) — Reading: Palestro et al. (2018)
+- 09:30 **Joint modeling with EEG** (Nunez) — Reading: Nunez et al. (2024)
+- 10:00 **Joint modeling with fMRI** (Turner) — Reading: Turner et al. (2015)
+- 10:30 Morning coffee / tea
+- 10:45 **Exploratory modeling with moderational learning** (Zhao) — Reading: Zhao et al. (2025)
+- 12:00 **Hierarchical modeling with diffusion models** (Radev) — Reading: Arruda et al. (2025)
+- 13:00 Lunch
+- 14:00 Joint modeling workshop: **using a deep neural network to build in covariation** (Nunez) — Reading: Ghaderi-Kangavari et al. (2023)
+- 14:45 Breakout group meetings
+- 16:00 Panel discussion with organizers + keynote speakers: future of SBI, open problems, career advice
+
+::: {.callout-note collapse="true"}
+## Key readings for Day 4
+- Palestro, J. J., Bahg, G., Sederberg, P. B., Lu, Z.-L., Steyvers, M., & Turner, B. M. (2018). A tutorial on joint models of neural and behavioral measures of cognition. *Journal of Mathematical Psychology, 84*, 20–48.
+- Ghaderi-Kangavari, A., Rad, J. A., & Nunez, M. D. (2023). A general integrative neurocognitive modeling framework to jointly describe EEG and decision-making on single trials. *Computational Brain & Behavior, 6*(3), 317–376.
+- Turner, B. M., Van Maanen, L., & Forstmann, B. U. (2015). Informing cognitive abstractions through neuroimaging: the neural drift diffusion model. *Psychological Review, 122*(2), 312.
+- Nunez, M. D., Fernandez, K., Srinivasan, R., & Vandekerckhove, J. (2024). A tutorial on fitting joint models of M/EEG and behavior to understand cognition. *Behavior Research Methods, 56*(6), 6020–6050.
+- Kvam, P. D., Romeu, R. J., Turner, B. M., Vassileva, J., & Busemeyer, J. R. (2021). Testing the factor structure underlying behavior using joint cognitive models. *Psychological Methods, 26*(1), 18–37.
+- Arruda, J., Pandey, V., Sherry, C., Barroso, M., Intes, X., Hasenauer, J., & Radev, S. T. (2025). Compositional amortized inference for large-scale hierarchical Bayesian models. *arXiv:2505.14429*.
+:::
+
+## Day 5 — Friday, July 31: Findings and future directions
+
+- 09:00 Breakout groups put together presentations
+- 10:45 Morning coffee / tea
+- 11:00 Breakout groups report back: short (~10–15 min) presentations on planned projects and progress, with feedback and discussion
+- 13:00 Lunch
+- 14:00 Concluding remarks + research opportunities: funding, collaborations, open datasets and problems; Discord, OSF, and GitHub materials
+- 15:00 Roundtable: incorporating SBI in participants' own research
+- 16:00 Closing / farewell

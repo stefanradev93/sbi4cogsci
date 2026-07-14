@@ -1,64 +1,99 @@
 ---
 title: "Organizers"
-pagetitle: "Organizers"
 ---
 
-::: {.organizer-grid}
+# Organizers
 
-::: {.organizer-card}
-[![](images/organizers/peter-kvam.jpg){.organizer-photo}](https://peterkvam.com)
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+[![](images/organizers/peter-kvam.jpg)](https://peterkvam.com)
 
 ### [Peter Kvam](https://peterkvam.com)
 
-<div class="organizer-affiliation">The Ohio State University</div>
+The Ohio State University
+
+Peter Kvam is an Associate Professor of Psychology at The Ohio State University, where he directs the Cognition & Decision Modeling Lab. His research spans judgment and decision-making, multi-alternative and continuous choice, and machine learning / AI methods for fitting, comparing, and discovering cognitive models.
 :::
 
-::: {.organizer-card}
-[![](images/organizers/brandon-turner.jpg){.organizer-photo}](https://turner-mbcn.com)
+::: {.g-col-12 .g-col-md-6}
+[![](images/organizers/brandon-turner.jpg)](https://turner-mbcn.com)
 
 ### [Brandon Turner](https://turner-mbcn.com)
 
-<div class="organizer-affiliation">The Ohio State University</div>
+The Ohio State University
+
+Brandon Turner is a Professor of Psychology at The Ohio State University. His research develops dynamic models of cognition and perceptual decision-making, efficient methods for likelihood-free and likelihood-informed Bayesian inference, and ways of unifying behavioral and neural explanations of cognition.
 :::
 
-::: {.organizer-card}
-[![](images/organizers/stefan-radev.jpg){.organizer-photo}](https://bayesops.com)
+::: {.g-col-12 .g-col-md-6}
+[![](images/organizers/stefan-radev.jpg)](https://bayesops.com)
 
 ### [Stefan T. Radev](https://bayesops.com)
 
-<div class="organizer-affiliation">Rensselaer Polytechnic Institute</div>
+Rensselaer Polytechnic Institute
+
+Stefan Radev is an Assistant Professor of Cognitive Science at Rensselaer Polytechnic Institute, where he leads the BayesOps Lab. His research develops new Bayesian methods powered by generative AI alongside computational models of complex systems — two streams that converge in BayesFlow, the open-source library for amortized Bayesian inference with modern deep learning.
 :::
 
-::: {.organizer-card}
-[![](images/organizers/anne-collins.jpg){.organizer-photo}](https://ccn.studentorg.berkeley.edu)
+::: {.g-col-12 .g-col-md-6}
+[![](images/organizers/anne-collins.jpg)](https://ccn.studentorg.berkeley.edu)
 
 ### [Anne Collins](https://ccn.studentorg.berkeley.edu)
 
-<div class="organizer-affiliation">University of California, Berkeley</div>
+University of California, Berkeley
+
+Anne Collins is an Associate Professor of Psychology at UC Berkeley and a member of the Helen Wills Neuroscience Institute, where she directs the Computational Cognitive Neuroscience (CCN) Lab. Her research combines computational modeling, behavior, and neuroscience to understand how learning, reinforcement learning, and working memory interact to produce flexible human behavior.
 :::
 
-::: {.organizer-card}
-[![](images/organizers/michael-nunez.jpg){.organizer-photo}](https://www.michaeldnunez.com)
+::: {.g-col-12 .g-col-md-6}
+[![](images/organizers/michael-nunez.jpg)](https://www.michaeldnunez.com)
 
 ### [Michael Nunez](https://www.michaeldnunez.com)
 
-<div class="organizer-affiliation">University of Amsterdam</div>
+University of Amsterdam
+
+Michael D. Nunez is an Associate Professor in the Psychological Methods group at the University of Amsterdam, where he leads the Mathematical Cognitive Neuroscience Laboratory. He builds mathematical models of decision-making that are tested against joint recordings of behavior and brain electrophysiology (EEG), and works on improving the statistical methods used to fit these models to data.
 :::
 
-::: {.organizer-card}
-[![](images/organizers/konstantina-sokratous.jpg){.organizer-photo}](https://www.lazyneuron.com)
+::: {.g-col-12 .g-col-md-6}
+[![](images/organizers/konstantina-sokratous.jpg)](https://www.lazyneuron.com)
 
 ### [Konstantina Sokratous](https://www.lazyneuron.com)
 
-<div class="organizer-affiliation">University of Missouri</div>
+University of Missouri
+
+Konstantina Sokratous is a Postdoctoral Fellow at the University of Missouri specializing in cognitive science, AI, computational modeling, and Bayesian methods. Her work develops neural-network tools for fitting and comparing models of decision behavior, including deep-learning approaches for estimating preferences from choices and willingness-to-pay prices.
 :::
 
-::: {.organizer-card}
-[![](images/organizers/alexander-fengler.jpg){.organizer-photo}](https://alexanderfengler.github.io)
+::: {.g-col-12 .g-col-md-6}
+[![](images/organizers/alexander-fengler.jpg)](https://alexanderfengler.github.io)
 
 ### [Alexander Fengler](https://alexanderfengler.github.io)
 
-<div class="organizer-affiliation">Brown University</div>
+Brown University
+
+Alex Fengler is a postdoctoral researcher at Brown University's Carney Institute for Brain Science, with a background spanning business, neuroeconomics, statistics, and cognitive science. He drives the main line of research on simulation-based inference for cognitive process models — including likelihood-approximation networks and the HSSM toolbox — and works as a Principal Data Scientist at PyMC Labs.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+[![](images/organizers/ti-fen-pan.jpg)](https://ccn.studentorg.berkeley.edu/pages/people.html)
+
+### [Ti-Fen Pan](https://ccn.studentorg.berkeley.edu/pages/people.html)
+
+University of California, Berkeley
+
+Ti-Fen Pan is a PhD researcher in the Computational Cognitive Neuroscience Lab at UC Berkeley. After an MSc in Electrical and Computer Engineering at Carnegie Mellon and several years as a software engineer, she now studies individual differences in learning, developing neural-network methods that identify time-varying latent variables in cognitive models.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+[![](images/organizers/benson-zhao.jpg)](https://peterkvam.com)
+
+### [Benson Zhao](https://peterkvam.com)
+
+The Ohio State University
+
+Bingsong (Benson) Zhao is a doctoral student in psychology at The Ohio State University, having received a B.S. in Economics and an M.S. in Psychology from Sun Yat-sen University. He studies the computational and neural mechanisms of decision-making, information seeking, and learning, along with related individual and cultural differences.
 :::
 
 :::
