@@ -96,7 +96,7 @@ title: "Schedule"
 - 10:00 **Joint modeling with fMRI** (Turner) — Reading: Turner et al. (2015)
 - 10:30 Morning coffee / tea
 - 10:45 **Exploratory modeling with moderational learning** (Zhao) — Reading: Zhao et al. (2025)
-- 12:00 **Hierarchical modeling with diffusion models** (Radev) — Reading: Arruda et al. (2025)
+- 12:00 **Advanced modeling with diffusion methods** (Radev) — Reading: Arruda et al. (2025)
 - 13:00 Lunch
 - 14:00 Joint modeling workshop: **using a deep neural network to build in covariation** (Nunez) — Reading: Ghaderi-Kangavari et al. (2023)
 - 14:45 Breakout group meetings
