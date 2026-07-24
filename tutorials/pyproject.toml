@@ -1,0 +1,13 @@
+[project]
+name = "bayesflow-hssm-tutorial"
+version = "0.1.0"
+description = "Minimal uv environment for BayesFlow, HSSM, JAX, and notebook tutorials."
+readme = "README.md"
+requires-python = ">=3.12,<3.14"
+dependencies = [
+    "bayesflow>=2.0",
+    "hssm",
+    "jax",
+    "ipykernel",
+    "ipywidgets",
+]

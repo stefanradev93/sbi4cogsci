@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}/tutorials/.venv",
+    "python-envs.workspaceSearchPaths": [
+        "./**/.venv"
+    ]
+}
