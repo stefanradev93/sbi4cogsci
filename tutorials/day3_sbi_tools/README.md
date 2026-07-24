@@ -7,4 +7,4 @@ This folder contains the materials for [Day 3 Tools for SBI](https://stefanradev
 ## Recurrent networks for dynamic data
 
 In this section, we will use Google Colab to run the following tutorials, so there is nothing to set up by hand:
-**LaseNet**   [Open in Colab](https://colab.research.google.com/drive/1d9y-Svzs2z8EBRb5sY26Ni-n4p4tmd_W?usp=sharing)
+**LaseNet** &nbsp; [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1d9y-Svzs2z8EBRb5sY26Ni-n4p4tmd_W?usp=sharing)
