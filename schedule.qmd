@@ -76,7 +76,7 @@ title: "Schedule"
 - 11:00 **MCMC sampling for hierarchical Bayesian models** (Turner, Fengler) — Reading: Fengler et al. (2021) · [companion notebook](tutorials/day3_sbi_tools/hierarchical-binomial.ipynb) · [slides](tutorials/day3_sbi_tools/SBI_summerschool_day3.pptx) [materials](tutorials/day3_sbi_tools/hierarchical-mcmc.ipynb)
 - 12:00 **Recurrent networks for dynamic data** (Pan) — Reading: Pan et al. (2025) · [materials](tutorials/day3_sbi_tools/lasenet_tutorial.ipynb)
 - 13:00 Lunch
-- 14:00 **Variational autoencoders** (Sokratous) — Reading: Doersch (2016)
+- 14:00 **Variational autoencoders** (Sokratous) — Reading: Doersch (2016) · [slides](tutorials/day3_sbi_tools/2026_SBI_VAE_KS.pdf)
 - 15:00 **Participant poster session** (to 17:00)
 
 ::: {.callout-note collapse="true"}
