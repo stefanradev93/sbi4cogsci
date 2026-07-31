@@ -56,7 +56,7 @@ title: "Schedule"
 - 14:00 Hands-on: **simulating data from a cognitive model** (Fengler) — [materials](tutorials/day2_bayes_toolkit/simulating-cognitive-models.ipynb) · [DDM explorer](tutorials/day2_bayes_toolkit/ddm-explorer.qmd)
 - 14:30 Hands-on: **toy models for parameter estimation** (Fengler) — [materials](tutorials/day2_bayes_toolkit/toy-models.ipynb)
 - 15:00 — MCMC methods (Fengler) — Reading: van Ravenzwaaij et al. (2018) · [materials](tutorials/day2_bayes_toolkit/mcmc-and-identifiability.ipynb)
-- 15:30 — Neural network methods (Sokratous) — Reading: Sokratous et al. (2023)
+- 15:30 — Neural network methods (Sokratous) — Reading: Sokratous et al. (2023) · [slides](tutorials/day2_bayes_toolkit/SBI_ModelComp_KS.pdf) [materials](tutorials/day2_bayes_toolkit/SBI_toyModelComp.ipynb)
 - 16:00 Short breakout meetings: identifying applications · Q&A
 
 ::: {.callout-note collapse="true"}
