@@ -29,12 +29,14 @@ title: "Schedule"
 - 09:15 Lightning talk introductions by participants (1–2 min each)
 - 10:45 Morning coffee / tea
 - 11:00 **Cognitive modeling** (Pan) — Reading: Wilson & Collins (2019) · [slides](tutorials/day1_inference/cognitive_modeling_intro_shared.pdf)
-- 12:00 **Bayesian inference** (Turner) — Reading: Rouder & Province (2019)
+- 12:00 **Bayesian inference** (Turner) — Reading: Rouder & Province (2019) · [slides, first half](tutorials/day1_inference/SBI_summerschool.pptx) · [R scripts](tutorials/day1_inference)
 - 13:00 Lunch
 - 14:00 **Machine learning** (Kvam) — Reading: Kvam et al. (2024) · [slides](tutorials/day1_inference/Intro to machine learning.pdf)
 - 14:30 **Simulation-based inference** (Radev) — Reading: Cranmer et al. (2020)
 - 15:30 **Latent variable modeling** (Sokratous) — Reading: Khemakhem et al. (2020) [slides](tutorials/day1_inference/2026_SBI_LVM_KS.pdf)
 - 16:00 Formation of breakout groups (~5 participants per group, matched with an organizer by topic)
+
+[Day 1 Recordings](https://osu.zoom.us/rec/share/eeMGF6Qfo6LeRDLUsFDGtPgUrx9pYyzukrgGb4Ztp54jbJ1-SlkXbkNoQj_NVBrB.KqlnJuAWfGSVtOll)
 
 ::: {.callout-note collapse="true"}
 ## Key readings for Day 1
@@ -47,7 +49,7 @@ title: "Schedule"
 
 ## Day 2 — Tuesday, July 28: Bayesian inference and simulation-based methods
 
-- 09:00 **Bayes' rule, parameter estimation, model comparison** (Turner) — Reading: Turner & Van Zandt (2012)
+- 09:00 **Bayes' rule, parameter estimation, model comparison** (Turner) — Reading: Turner & Van Zandt (2012) · [slides, second half](tutorials/day1_inference/SBI_summerschool.pptx) · [R scripts](tutorials/day1_inference)
 - 10:00 **Traditional and amortized Bayesian computation** (Radev) — Reading: Bürkner et al. (2023)
 - 10:45 Morning coffee / tea
 - 11:00 Breakout group meetings
@@ -58,6 +60,8 @@ title: "Schedule"
 - 15:00 — MCMC methods (Fengler) — Reading: van Ravenzwaaij et al. (2018) · [materials](tutorials/day2_bayes_toolkit/mcmc-and-identifiability.ipynb)
 - 15:30 — Neural network methods (Sokratous) — Reading: Sokratous et al. (2023) · [slides](tutorials/day2_bayes_toolkit/SBI_ModelComp_KS.pdf) [materials](tutorials/day2_bayes_toolkit/SBI_toyModelComp.ipynb)
 - 16:00 Short breakout meetings: identifying applications · Q&A
+
+[Day 2 Recordings](https://osu.zoom.us/rec/share/DrHqXvf_SW67To77KqX8EUKgpap9sh1BUZThK2Q_8cdv88iJz_lT5gGPwgaFbCtA.1W0xgTnIW2qdu2Ub)
 
 ::: {.callout-note collapse="true"}
 ## Key readings for Day 2
@@ -79,6 +83,8 @@ title: "Schedule"
 - 14:00 **Variational autoencoders** (Sokratous) — Reading: Doersch (2016) · [slides](tutorials/day3_sbi_tools/2026_SBI_VAE_KS.pdf)
 - 15:00 **Participant poster session** (to 17:00)
 
+[Day 3 Recordings](https://osu.zoom.us/rec/share/XurX-Q6MtpXVjB5eufMhW-5C-3eEwZUYdbcD3BucdZuvQ3r77n03zmj3DcdCUsQx.isJHPnQbEOPymIE6)
+
 ::: {.callout-note collapse="true"}
 ## Key readings for Day 3
 - Fengler, A., Govindarajan, L. N., Chen, T., & Frank, M. J. (2021). Likelihood approximation networks (LANs) for fast inference of simulation models in cognitive neuroscience. *eLife, 10*, e65074.
@@ -91,16 +97,18 @@ title: "Schedule"
 
 ## Day 4 — Thursday, July 30: Complex models and joint modeling
 
-- 09:00 **Introduction to joint modeling** (Turner & Nunez) — Reading: Palestro et al. (2018)
+- 09:00 **Introduction to joint modeling** (Turner & Nunez) — Reading: Palestro et al. (2018) · [slides, first half](tutorials/day4_complex_joint/SBI_summerschool_day4.pdf)
 - 09:30 **Joint modeling with EEG** (Nunez) — Reading: Nunez et al. (2024) · [slides](tutorials/day4_complex_joint/SBI2026_Joint_Modeling_EEG_Nunez.pdf)
-- 10:00 **Joint modeling with fMRI** (Turner) — Reading: Turner et al. (2015)
+- 10:00 **Joint modeling with fMRI** (Turner) — Reading: Turner et al. (2015) · [slides, second half](tutorials/day4_complex_joint/SBI_summerschool_day4.pdf)
 - 10:30 Morning coffee / tea
-- 10:45 **Exploratory modeling with moderational learning** (Zhao) — Reading: Zhao et al. (2025)
-- 12:00 **Advanced modeling with diffusion methods** (Radev) — Reading: Arruda et al. (2025)
+- 10:45 **Exploratory modeling with moderational learning** (Zhao) — Reading: Zhao et al. (2025) · [slides](tutorials/day4_complex_joint/Day4_ModerationalLearning_Slides.pdf)
+- 12:00 **Advanced modeling with diffusion methods** (Radev) — Reading: Arruda et al. (2025) · [materials](tutorials/day4_complex_joint/compositional-demo.ipynb)
 - 13:00 Lunch
 - 14:00 Joint modeling workshop: **using a deep neural network to build in covariation** (Nunez) — Reading: Ghaderi-Kangavari et al. (2023) · [slides](tutorials/day4_complex_joint/SBI2026_Tutorial_Nunez.pdf) [materials](tutorials/day4_complex_joint/demo_single_trial_integrative_joint_modeling.ipynb)
 - 14:45 Breakout group meetings
-- 16:00 Panel discussion with organizers + keynote speakers: future of SBI, open problems, career advice
+- 16:00 Panel discussion with organizers + keynote speakers: future of SBI, open problems, career advice 
+
+[Day 4 Recordings](https://osu.zoom.us/rec/share/j7qad_xu8FIGM603lLOiRIwFoPKclgAsnN-aKkMcyR75NNVN6Mu5y91OVs9e42K_.NUW1J7HTRvizL4hw);
 
 ::: {.callout-note collapse="true"}
 ## Key readings for Day 4
