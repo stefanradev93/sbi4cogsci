@@ -29,7 +29,7 @@ title: "Schedule"
 - 09:15 Lightning talk introductions by participants (1–2 min each)
 - 10:45 Morning coffee / tea
 - 11:00 **Cognitive modeling** (Pan) — Reading: Wilson & Collins (2019) · [slides](tutorials/day1_inference/cognitive_modeling_intro_shared.pdf)
-- 12:00 **Bayesian inference** (Turner) — Reading: Rouder & Province (2019) · [slides, first half](tutorials/day1_inference/SBI_summerschool.pptx) · [R scripts](tutorials/day1_inference)
+- 12:00 **Bayesian inference** (Turner) — Reading: Rouder & Province (2019) · [slides, first half](tutorials/day1_inference/SBI_summerschool.pptx) · [R scripts](https://github.com/stefanradev93/sbi4cogsci/tree/main/tutorials/day1_inference)
 - 13:00 Lunch
 - 14:00 **Machine learning** (Kvam) — Reading: Kvam et al. (2024) · [slides](tutorials/day1_inference/Intro to machine learning.pdf)
 - 14:30 **Simulation-based inference** (Radev) — Reading: Cranmer et al. (2020)
@@ -49,7 +49,7 @@ title: "Schedule"
 
 ## Day 2 — Tuesday, July 28: Bayesian inference and simulation-based methods
 
-- 09:00 **Bayes' rule, parameter estimation, model comparison** (Turner) — Reading: Turner & Van Zandt (2012) · [slides, second half](tutorials/day1_inference/SBI_summerschool.pptx) · [R scripts](tutorials/day1_inference)
+- 09:00 **Bayes' rule, parameter estimation, model comparison** (Turner) — Reading: Turner & Van Zandt (2012) · [slides, second half](tutorials/day1_inference/SBI_summerschool.pptx) · [R scripts](https://github.com/stefanradev93/sbi4cogsci/tree/main/tutorials/day1_inference)
 - 10:00 **Traditional and amortized Bayesian computation** (Radev) — Reading: Bürkner et al. (2023)
 - 10:45 Morning coffee / tea
 - 11:00 Breakout group meetings
