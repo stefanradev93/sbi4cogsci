@@ -108,7 +108,7 @@ title: "Schedule"
 - 14:45 Breakout group meetings
 - 16:00 Panel discussion with organizers + keynote speakers: future of SBI, open problems, career advice 
 
-[Day 4 Recordings](https://osu.zoom.us/rec/share/j7qad_xu8FIGM603lLOiRIwFoPKclgAsnN-aKkMcyR75NNVN6Mu5y91OVs9e42K_.NUW1J7HTRvizL4hw);
+[Day 4 Recordings](https://osu.zoom.us/rec/share/j7qad_xu8FIGM603lLOiRIwFoPKclgAsnN-aKkMcyR75NNVN6Mu5y91OVs9e42K_.NUW1J7HTRvizL4hw)
 
 ::: {.callout-note collapse="true"}
 ## Key readings for Day 4
